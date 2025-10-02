@@ -1,0 +1,5 @@
+{
+  "name": "Advanced AI Video Generator",
+  "description": "A professional multi-scene animal video generator that produces sequential, consistent prompts for creating cinematic videos by combining multiple 7-second clips.",
+  "requestFramePermissions": []
+}
